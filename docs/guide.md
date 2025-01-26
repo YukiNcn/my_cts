@@ -5,3 +5,4 @@
 # 2025-01-13 22:44:46 - Add docstring
 # 2025-01-16 09:39:53 - Add docstring
 # 2025-01-16 11:52:18 - Fix comment typo
+# 2025-01-26 17:24:34 - Update documentation
