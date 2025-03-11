@@ -11,3 +11,4 @@
 # 2025-02-10 11:26:54 - Improve example usage
 # 2025-02-23 16:06:28 - Improve example usage
 # 2025-02-26 13:20:23 - Add docstring
+# 2025-03-11 10:59:36 - Add docstring
