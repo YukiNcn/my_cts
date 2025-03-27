@@ -11,3 +11,4 @@
 # 2025-03-14 14:10:24 - Optimize loop performance
 # 2025-03-19 16:34:06 - Optimize loop performance
 # 2025-03-21 16:05:41 - Fix off-by-one error
+# 2025-03-27 23:00:41 - Refactor helper function
