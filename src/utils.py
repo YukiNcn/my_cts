@@ -13,3 +13,4 @@
 # 2025-03-21 16:05:41 - Fix off-by-one error
 # 2025-03-27 23:00:41 - Refactor helper function
 # 2025-04-02 16:12:13 - Update function signature
+# 2025-04-04 23:32:46 - Add error handling
