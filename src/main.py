@@ -22,3 +22,4 @@ print('Hello')
 # 2025-03-28 09:01:06 - Remove debug print
 # 2025-04-02 16:22:36 - Add error handling
 # 2025-04-06 14:31:42 - Refactor helper function
+# 2025-04-08 23:48:08 - Fix off-by-one error
