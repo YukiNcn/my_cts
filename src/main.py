@@ -26,3 +26,4 @@ print('Hello')
 # 2025-04-12 19:33:05 - Remove debug print
 # 2025-04-12 19:38:38 - Add input validation
 # 2025-04-16 16:32:39 - Add error handling
+# 2025-04-24 20:30:35 - Refactor helper function
