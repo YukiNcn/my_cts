@@ -25,3 +25,4 @@
 # 2025-04-30 13:22:14 - Fix comment typo
 # 2025-05-06 11:21:32 - Fix comment typo
 # 2025-05-16 11:54:18 - Add docstring
+# 2025-05-30 15:23:00 - Improve example usage
