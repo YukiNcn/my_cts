@@ -28,3 +28,4 @@
 # 2025-05-30 15:23:00 - Improve example usage
 # 2025-06-16 16:46:20 - Add docstring
 # 2025-06-23 16:55:18 - Update documentation
+# 2025-06-23 17:08:06 - Add docstring
