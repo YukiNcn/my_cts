@@ -36,3 +36,4 @@
 # 2025-06-11 11:06:50 - Add badge to README
 # 2025-06-16 20:33:09 - Improve README formatting
 # 2025-06-19 22:57:40 - Fix typo in README
+# 2025-06-24 19:50:12 - Update project description in README
