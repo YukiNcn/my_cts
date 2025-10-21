@@ -49,3 +49,4 @@
 # 2025-10-08 11:21:25 - Add docstring
 # 2025-10-14 17:43:38 - Fix comment typo
 # 2025-10-20 17:24:11 - Fix comment typo
+# 2025-10-21 19:40:02 - Update documentation
