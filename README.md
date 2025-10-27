@@ -53,3 +53,4 @@
 # 2025-09-21 20:18:40 - Fix typo in README
 # 2025-09-23 15:33:10 - Add badge to README
 # 2025-10-16 16:17:46 - Add badge to README
+# 2025-10-27 16:54:17 - Improve README formatting
