@@ -56,3 +56,4 @@
 # 2025-11-07 13:01:04 - Fix comment typo
 # 2025-11-07 15:30:11 - Update documentation
 # 2025-11-10 17:56:40 - Improve example usage
+# 2025-11-18 09:46:57 - Improve example usage
