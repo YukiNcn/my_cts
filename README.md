@@ -65,3 +65,4 @@
 # 2025-11-26 21:18:21 - Update README.md
 # 2025-11-27 11:47:47 - Update project description in README
 # 2025-12-01 23:17:38 - Update README.md
+# 2025-12-04 10:31:42 - Add badge to README
