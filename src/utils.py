@@ -60,3 +60,4 @@
 # 2025-12-08 22:46:33 - Fix off-by-one error
 # 2025-12-10 21:11:52 - Add input validation
 # 2025-12-13 10:04:08 - Remove debug print
+# 2025-12-15 12:37:02 - Update function signature
