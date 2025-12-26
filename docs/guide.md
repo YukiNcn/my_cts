@@ -61,3 +61,4 @@
 # 2025-11-28 14:23:40 - Improve example usage
 # 2025-12-01 16:15:45 - Fix comment typo
 # 2025-12-09 15:20:20 - Update documentation
+# 2025-12-26 10:40:30 - Add docstring
